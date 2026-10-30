@@ -1,0 +1,11 @@
+.idea/
+.DS_Store
+node_modules
+*.tmp
+*.log
+*.bak
+*.lcov
+*.env
+_*.md
+[Cc]ov/
+[Cc]overage/
